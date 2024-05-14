@@ -79,6 +79,12 @@ border: 1px solid rgba(92, 90, 90, 0.527) !important;
 .bg-pink{
     background-color: var(--pink) !important;
 }
+.text-orange{
+    color: var(--orange) !important; 
+}
+.text-yellow{
+    color:var(--yellow);
+}
 .roundedIcon{
     border-radius: 1.25rem;
 }
