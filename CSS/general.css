@@ -1,0 +1,84 @@
+:root {
+    --purple:#5D50C6;
+    --pink:#F85E9F;
+    --orange:#FF5722;
+    --yellow:#FACD49;
+}
+*{
+    text-decoration: none !important;
+}
+/* Navbar Start */
+.signupbutton {
+background-color:var(--purple) !important;
+border-radius: 40px !important;
+
+
+}
+.navbuttons{
+    border-radius: 1rem !important;
+}
+
+.active{
+   
+    font-weight: bold !important;
+}
+/* Navbar End */
+
+/* Landing Start */
+section span{
+
+color: var(--pink) !important;
+}
+.watchDemo{
+    border-radius: 40px !important;
+border: 1px solid rgba(92, 90, 90, 0.527) !important;
+}
+.explore{
+    color: var(--pink) !important;
+    border-radius: 40px !important;
+}
+/* Landing End */
+
+.pageHeader{
+    color: var(--pink);
+    letter-spacing: 0.10rem;
+}
+
+.serviceCard{
+    border-radius: 1.3rem !important;
+
+}
+.arrow-icon1,.arrow-icon2{
+    padding: 2rem;
+    border-radius: 50%;
+}
+.arrow-icon1{
+    border: 1px solid rgba(128, 128, 128, 0.226);
+}
+.arrow-icon2{
+    background-color: var(--purple);
+}
+.price{
+    color:var(--pink);
+}
+.cardPrice{
+    border-radius: 2rem !important;
+}
+.r-card{
+    border-radius: 1rem !important;
+}
+
+.bg-orange{
+    background-color: var(--orange) !important;
+}
+
+.bg-yellow{
+        background-color: var(--yellow) !important;
+}
+
+.bg-pink{
+    background-color: var(--pink) !important;
+}
+.roundedIcon{
+    border-radius: 1.25rem;
+}
